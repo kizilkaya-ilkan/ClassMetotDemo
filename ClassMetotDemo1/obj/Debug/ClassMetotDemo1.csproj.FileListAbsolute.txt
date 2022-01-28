@@ -1,0 +1,8 @@
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\ClassMetotDemo1.exe.config
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\ClassMetotDemo1.exe
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\bin\Debug\ClassMetotDemo1.pdb
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\ClassMetotDemo1.csproj.AssemblyReference.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\ClassMetotDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\ClassMetotDemo1.csproj.CoreCompileInputs.cache
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\ClassMetotDemo1.exe
+C:\Users\kizil\OneDrive\Masaüstü\Ders\C#+Angular\ClassMetotDemo1\ClassMetotDemo1\obj\Debug\ClassMetotDemo1.pdb
